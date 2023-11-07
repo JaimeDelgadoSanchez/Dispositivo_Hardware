@@ -1,0 +1,45 @@
+h1{
+    font-family: Arial, sans-serif;
+    font-size: 50px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-shadow: 6px 6px 6px rgba(221, 176, 176, 0.5);
+}
+ul{
+    font-size: 1em;
+}
+
+nav a{
+    color: beige;
+}
+
+header{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    
+}
+
+blockquote{
+    border-left: 10px solid black;
+    padding-left: 1.5em;
+}
+
+li{
+    display: inline;
+    margin: 1em;
+    padding-right: 1em;
+    border-right: 1px solid white;
+}
+
+.imagen1{
+    width: 65%;
+    margin-left:17.5%;
+    height: 30em;
+    padding-top: 5px;
+    justify-content: center;
+    align-items: center;
+    border-left: 35px;
+    
+}
