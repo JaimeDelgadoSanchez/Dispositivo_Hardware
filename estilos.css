@@ -67,7 +67,7 @@ main{
     padding: 3px; 
 }
 
-.imagen3{
+.imagen3, .imagen4{
     max-width: 65%;
     height: 20em;
     margin-left:26%;
@@ -76,5 +76,14 @@ main{
  th, td{
     border: 2px solid burlywood;
     padding: 5px;
+}
+footer{
+    background-color: rgb(23, 21, 21);
+    color: gainsboro;
+    text-align: center;
+    padding: 25px;
+    margin-top: 10px;
+    font-family: Arial, sans-serif;
+    height: 60px;
     
 }
